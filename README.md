@@ -1,0 +1,1 @@
+LightLog is a flexible and easy-to-use logging library for .NET applications that simplifies logging with support for multiple destinations (sinks), structured logging, and extensibility. Designed to be lightweight, it provides developers with the necessary tools to log and analyze application behavior in a straightforward manner, without sacrificing flexibility.
