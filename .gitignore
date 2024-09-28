@@ -1,0 +1,19 @@
+# .gitignore file for a C# project
+
+# Ignore build output and project files
+bin/
+obj/
+*.user
+*.suo
+*.log
+*.vs/
+
+# Ignore .NET and Visual Studio related files
+.vscode/
+.vs/
+*.swp
+
+# Ignore package folders and temporary files
+packages/
+*.tmp
+*.bak
